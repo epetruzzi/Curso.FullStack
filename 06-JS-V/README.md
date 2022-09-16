@@ -193,7 +193,6 @@ Vamos a solucionar ese problema agregando al prototipo los métodos de Persona, 
 ```
 
 ## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
-[Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/06-JS-V/homework)
 
 ## Recursos adicionales
 
