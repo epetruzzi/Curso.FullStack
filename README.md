@@ -14,7 +14,7 @@
 * [07 - VI - Callbacks](./07-JS-VI)
 * [08 - HTML](./08-HTML)
 * [09 - CSS](./09-CSS-Positioning)
-* Henry Challenge => [Inscribite acá para rendir](https://challenge.prep.soyhenry.com/)
+
 
 ## Conceptos:
 
