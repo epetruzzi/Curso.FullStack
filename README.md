@@ -20,10 +20,7 @@
 
 * [Expressions vs Statements](./JS-conceptos/Statements-Expressions/)
 
-## Clases de Repaso (Henry Heroes)
 
-Estudiantes mas avanzados de la carrera resuelven los ejercicios en vivo en formato webinar.
-[Acá podes](https://docs.google.com/spreadsheets/d/e/2PACX-1vQwV-pEgWuxqI1B3pdVI0lbeqPB0a6LHPk6-DQlifDdX9Rue_Ul4YTOxoOg-hhofv6U0f32OoXOU2Wf/pubhtml) ver el calendario de las clases y las grabaciones.
 
 ## Homeworks
 
