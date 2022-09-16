@@ -275,7 +275,6 @@ Te invitamos a buscar en Google información de estos conceptos para poder desar
 <br>
 
 ## Abre la carpeta "homework" y completa la tarea descripta en el archivo README
-[Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/03-JS-II/homework)
 
 ## Recursos adicionales
 
